@@ -1,4 +1,4 @@
-package com.dillip.learn.springboot.user.api;
+package com.dillip.learn.springboot.user.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
